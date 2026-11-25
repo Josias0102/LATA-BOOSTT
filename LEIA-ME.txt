@@ -1,0 +1,8 @@
+SITE OFICIAL LATA BOOST
+1. Copie a pasta docs para a raiz do repositório do programa.
+2. No GitHub: Settings > Pages > Deploy from a branch > main > /docs > Save.
+3. Abra docs/index.html e edite CONFIG.pix para cadastrar sua chave Pix.
+4. CONFIG.repository pode ficar vazio no GitHub Pages de projeto ou receber usuario/repositorio.
+5. O botão de download será habilitado quando existir uma Release estável publicada com o arquivo LATA_BOOST_SETUP.exe (ou altere CONFIG.installer para o nome correto).
+6. Abra index.html localmente para visualizar. O download depende da API do GitHub e de uma release pública.
+O site não inclui instalador nem publica automaticamente o programa.
